@@ -1,0 +1,5 @@
+SELECT TOP (1000) [Year]
+      ,[No_of_Developers_in_Millions]
+      ,[No_of_Repositories_in_Millions]
+      ,[No_of_Organizations_in_Millions]
+  FROM [SQLtutorisl].[dbo].[Github]
